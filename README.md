@@ -1,2 +1,2 @@
-# c
-Programming projects in C
+# C
+CS Programming projects in C
